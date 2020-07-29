@@ -1,0 +1,23 @@
+body{
+    background-image:"https://ph-files.imgix.net/caf5608a-67ec-4f9f-acb5-db0052c33bed?auto=format";
+    background-size:cover;
+    align-content: center;
+}
+
+.jumbotron{
+    background-color:rgb(219, 219, 219);
+    opacity:.5
+}
+
+.static {
+  position:absolute;
+  background: white;
+}
+
+.static:hover {
+  opacity:0;
+}
+
+.alphabet{
+    
+}
